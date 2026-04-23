@@ -5,7 +5,6 @@
   <groupId>ru.aod.jmeter</groupId>
   <artifactId>jmeter-time-with-timezone</artifactId>
   <version>1.0.0</version>
-  <name>Utility_functions</name>
   <packaging>jar</packaging>
 
   <properties>
